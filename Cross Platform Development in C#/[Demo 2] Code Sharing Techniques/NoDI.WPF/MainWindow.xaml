@@ -1,0 +1,13 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <TextBox Text="This is my title" Margin="6" x:Name="txtTitle"></TextBox>
+            <TextBox Text="This is my body" Margin="6" x:Name="txtBody"></TextBox>
+
+            <Button Content="ShowMessage" Margin="20" Height="50" Click="Button_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\obj\Debug\Facts.iOS.Core.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Facts.iOS.Core.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Facts.iOS.Core.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Cirrious.CrossCore.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Cirrious.CrossCore.Touch.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.Touch.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Cirrious.MvvmCross.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Cirrious.MvvmCross.Touch.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Facts.iOS.Domain.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Facts.iOS.Repository.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Facts.iOS.Domain.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\bin\iPhone\Debug\Facts.iOS.Repository.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\obj\Debug\Facts.iOS.Core.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Core\obj\Debug\Facts.iOS.Core.pdb

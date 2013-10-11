@@ -1,0 +1,14 @@
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\bin\Debug\FL.Store.Core.dll
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\bin\Debug\FL.Store.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\bin\Debug\FL.Store.Core.pri
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\FL.Store.Core.dll
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\FL.Store.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\priconfig.xml.intermediate
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\layout.resfiles.intermediate
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\resources.resfiles.intermediate
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\pri.resfiles.intermediate
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\priconfig.xml
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\layout.resfiles
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\resources.resfiles
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\pri.resfiles
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\obj\Debug\LanguageQualifiers.txt

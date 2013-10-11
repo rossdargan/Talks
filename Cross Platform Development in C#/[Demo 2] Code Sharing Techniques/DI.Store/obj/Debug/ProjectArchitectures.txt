@@ -1,0 +1,1 @@
+C:\Workspaces\Sandpit\DIDemo\DI.Store\DI.Store.csproj;neutral

@@ -1,0 +1,2 @@
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\Store.Core.csproj;neutral
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\Store.csproj;neutral

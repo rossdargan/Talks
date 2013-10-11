@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DUR-LP-090</Machine>
+    <WindowsUser>r_dargan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B76B6C530D62CF49CC4B85F41D63936E450F420FE567C08B72306E0FB731057A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3b425022-c87f-4d37-8227-678490ab4457_1.0.0.0_neutral__3pqgqcbk8sv8y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3b425022-c87f-4d37-8227-678490ab4457_3pqgqcbk8sv8y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3b425022-c87f-4d37-8227-678490ab4457</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=r_dargan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T13:30:48.626</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\bin\Debug\DI.Store.exe">
+      <PackagePath>DI.Store.exe</PackagePath>
+      <Modified>2013-10-05T13:30:48.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\bin\Debug\DI.Store.pdb">
+      <PackagePath>DI.Store.pdb</PackagePath>
+      <Modified>2013-10-05T13:30:48.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Core\bin\Debug\DI.Core.dll">
+      <PackagePath>DI.Core.dll</PackagePath>
+      <Modified>2013-10-05T13:29:58.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\packages\Unity.3.0.1208-Preview\lib\WinRT45\Microsoft.Practices.Unity.WinRT.dll">
+      <PackagePath>Microsoft.Practices.Unity.WinRT.dll</PackagePath>
+      <Modified>2013-10-05T13:07:22.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Core\bin\Debug\DI.Core.pdb">
+      <PackagePath>DI.Core.pdb</PackagePath>
+      <Modified>2013-10-05T13:29:58.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-05T12:56:57.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-10-05T13:03:46.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\DI.Store\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-05T13:30:48.465</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

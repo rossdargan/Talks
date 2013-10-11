@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DUR-LP-090</Machine>
+    <WindowsUser>r_dargan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C3E0C60694F519FD31C2A44C7AFE8282042BBAD0707855244B2F5ED260CBD1A0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>969290f6-c1fc-41e8-b57e-190d977d5999_1.0.0.0_neutral__3pqgqcbk8sv8y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>969290f6-c1fc-41e8-b57e-190d977d5999_3pqgqcbk8sv8y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>969290f6-c1fc-41e8-b57e-190d977d5999</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=r_dargan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-06T07:04:28.872</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\bin\Debug\FL.Store.exe">
+      <PackagePath>FL.Store.exe</PackagePath>
+      <Modified>2013-10-06T07:04:28.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\bin\Debug\FL.Store.pdb">
+      <PackagePath>FL.Store.pdb</PackagePath>
+      <Modified>2013-10-06T07:04:28.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\bin\Debug\FL.Store.Core.pdb">
+      <PackagePath>FL.Store.Core.pdb</PackagePath>
+      <Modified>2013-10-06T07:04:02.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\bin\Debug\FL.Store.Core.dll">
+      <PackagePath>FL.Store.Core.dll</PackagePath>
+      <Modified>2013-10-06T07:04:02.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-06T06:54:47.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-10-06T07:02:12.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\FL.Store\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-06T07:04:28.753</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\FL.WPF.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\MainWindow.baml
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\MainWindow.g.cs
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\App.g.cs
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\FL.WPF_MarkupCompile.cache
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\FL.WPF.g.resources
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\FL.WPF.Properties.Resources.resources
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\FL.WPF.csproj.GenerateResource.Cache
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\bin\Debug\FL.WPF.exe.config
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\bin\Debug\FL.WPF.exe
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\bin\Debug\FL.WPF.pdb
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\bin\Debug\FL.Core.dll
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\bin\Debug\FL.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\FL.WPF.exe
+C:\Workspaces\Sandpit\DIDemo\FL.WPF\obj\Debug\FL.WPF.pdb

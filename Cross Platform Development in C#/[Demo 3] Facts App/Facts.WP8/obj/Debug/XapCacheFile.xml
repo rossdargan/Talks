@@ -1,0 +1,29 @@
+﻿<xapCache source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Bin\Debug\Facts.WP8_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/10/2013 21:21:01">
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\obj\Debug\Facts.WP8.dll" archivePath="Facts.WP8.dll" lastWriteTime="10/10/2013 21:21:00" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="29/09/2013 13:03:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="29/09/2013 13:03:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="29/09/2013 13:03:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="29/09/2013 13:03:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="29/09/2013 13:03:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\ToDo-MvvmCross\_ Windows Phone UI.txt" archivePath="ToDo-MvvmCross\_ Windows Phone UI.txt" lastWriteTime="29/09/2013 13:05:08" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29/09/2013 22:34:06" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="29/09/2013 13:03:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="29/09/2013 13:03:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\sl4-wp71\Cirrious.CrossCore.dll" archivePath="Cirrious.CrossCore.dll" lastWriteTime="29/09/2013 11:20:45" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\sl4-wp71\Cirrious.CrossCore.WindowsPhone.dll" archivePath="Cirrious.CrossCore.WindowsPhone.dll" lastWriteTime="29/09/2013 11:20:45" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.12\lib\sl4-wp71\Cirrious.MvvmCross.dll" archivePath="Cirrious.MvvmCross.dll" lastWriteTime="29/09/2013 11:20:45" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\sl4-wp71\Cirrious.MvvmCross.Localization.dll" archivePath="Cirrious.MvvmCross.Localization.dll" lastWriteTime="29/09/2013 11:20:45" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.12\lib\sl4-wp71\Cirrious.MvvmCross.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.WindowsPhone.dll" lastWriteTime="29/09/2013 11:20:45" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Core.dll" archivePath="Facts.Core.dll" lastWriteTime="10/10/2013 21:20:24" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="29/09/2013 12:00:13" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="29/09/2013 12:00:13" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="29/09/2013 12:00:13" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Domain.dll" archivePath="Facts.Domain.dll" lastWriteTime="06/10/2013 19:31:32" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Repository.dll" archivePath="Facts.Repository.dll" lastWriteTime="06/10/2013 19:31:33" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="17/08/2011 01:48:22" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.xml" archivePath="System.Net.Http.xml" lastWriteTime="29/09/2013 12:00:13" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml" archivePath="System.Net.Http.Extensions.xml" lastWriteTime="29/09/2013 12:00:13" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Primitives.xml" archivePath="System.Net.Http.Primitives.xml" lastWriteTime="29/09/2013 12:00:13" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.xml" archivePath="System.Windows.Interactivity.xml" lastWriteTime="17/08/2011 01:30:36" />
+  <file source="C:\Workspaces\Sandpit\Facts.Core\Facts.WP8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29/09/2013 22:34:06" />
+</xapCache>

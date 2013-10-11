@@ -1,0 +1,2 @@
+C:\Workspaces\Sandpit\DIDemo\FL.Store.Core\FL.Store.Core.csproj;neutral
+C:\Workspaces\Sandpit\DIDemo\FL.Store\FL.Store.csproj;neutral

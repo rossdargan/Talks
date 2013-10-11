@@ -1,0 +1,13 @@
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\bin\Debug\AndroidApplication1.dll
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\bin\Debug\AndroidApplication1.pdb
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\bin\Debug\AndroidApplication1.dll.mdb
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1.apk
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1-Signed.apk
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\AndroidApplication1.dll
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\AndroidApplication1.pdb
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\android\bin\AndroidApplication1.AndroidApplication1.apk
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\res\layout\main.xml
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\res\values\strings.xml
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\res\drawable\icon.png
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\R.cs.flag
+C:\Workspaces\Sandpit\HelloWorld_App1\AndroidApplication1\obj\Debug\uploadflags.txt

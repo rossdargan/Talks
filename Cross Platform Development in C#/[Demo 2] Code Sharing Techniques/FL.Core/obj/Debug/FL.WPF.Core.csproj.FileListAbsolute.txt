@@ -1,0 +1,5 @@
+C:\Workspaces\Sandpit\DIDemo\FL.Core\obj\Debug\FL.WPF.Core.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\DIDemo\FL.Core\bin\Debug\FL.Core.dll
+C:\Workspaces\Sandpit\DIDemo\FL.Core\bin\Debug\FL.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\FL.Core\obj\Debug\FL.Core.dll
+C:\Workspaces\Sandpit\DIDemo\FL.Core\obj\Debug\FL.Core.pdb

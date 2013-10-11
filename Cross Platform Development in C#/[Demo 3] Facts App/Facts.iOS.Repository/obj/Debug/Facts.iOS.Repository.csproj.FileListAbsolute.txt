@@ -1,0 +1,7 @@
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Repository\bin\iPhone\Debug\Facts.iOS.Repository.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Repository\bin\iPhone\Debug\Facts.iOS.Repository.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Repository\bin\iPhone\Debug\Facts.iOS.Domain.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Repository\bin\iPhone\Debug\Facts.iOS.Domain.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Repository\obj\Debug\Facts.iOS.Repository.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Repository\obj\Debug\Facts.iOS.Repository.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.iOS.Repository\obj\Debug\Facts.iOS.Repository.pdb

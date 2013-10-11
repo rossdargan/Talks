@@ -1,0 +1,14 @@
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\bin\Debug\Store.Core.dll
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\bin\Debug\Store.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\bin\Debug\Store.Core.pri
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\Store.Core.dll
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\Store.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\priconfig.xml.intermediate
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\layout.resfiles.intermediate
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\resources.resfiles.intermediate
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\pri.resfiles.intermediate
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\priconfig.xml
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\layout.resfiles
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\resources.resfiles
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\pri.resfiles
+C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\obj\Debug\LanguageQualifiers.txt

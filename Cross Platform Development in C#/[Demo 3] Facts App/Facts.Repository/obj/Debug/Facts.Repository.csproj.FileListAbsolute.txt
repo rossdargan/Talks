@@ -1,0 +1,15 @@
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\Facts.Repository.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\Facts.Repository.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\Facts.Domain.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\Facts.Domain.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\obj\Debug\Facts.Repository.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\obj\Debug\Facts.Repository.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\obj\Debug\Facts.Repository.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\Facts.Repository.dll.config
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\System.Net.Http.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\System.Net.Http.Extensions.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\System.Net.Http.Primitives.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\System.Net.Http.xml
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\System.Net.Http.Extensions.xml
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\bin\Debug\System.Net.Http.Primitives.xml
+C:\Workspaces\Sandpit\Facts.Core\Facts.Repository\obj\Debug\Facts.Repository.csproj.App.config

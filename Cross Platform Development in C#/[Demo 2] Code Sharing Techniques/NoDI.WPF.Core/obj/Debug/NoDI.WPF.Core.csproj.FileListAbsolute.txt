@@ -1,0 +1,5 @@
+C:\Workspaces\Sandpit\DIDemo\NoDI.WPF.Core\bin\Debug\NoDI.WPF.Core.dll
+C:\Workspaces\Sandpit\DIDemo\NoDI.WPF.Core\bin\Debug\NoDI.WPF.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\NoDI.WPF.Core\obj\Debug\NoDI.WPF.Core.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\DIDemo\NoDI.WPF.Core\obj\Debug\NoDI.WPF.Core.dll
+C:\Workspaces\Sandpit\DIDemo\NoDI.WPF.Core\obj\Debug\NoDI.WPF.Core.pdb

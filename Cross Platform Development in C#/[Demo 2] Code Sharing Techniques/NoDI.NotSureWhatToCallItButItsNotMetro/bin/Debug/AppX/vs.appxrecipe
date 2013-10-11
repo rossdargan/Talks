@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DUR-LP-090</Machine>
+    <WindowsUser>r_dargan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B6DFAC934A83C3F5EA561BA8D1C49A8BC0708FD2E3219134410A55E5475CCC15</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4a2ad5d2-f800-4a87-a835-6e50ee74516b_1.0.0.0_neutral__3pqgqcbk8sv8y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4a2ad5d2-f800-4a87-a835-6e50ee74516b_3pqgqcbk8sv8y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4a2ad5d2-f800-4a87-a835-6e50ee74516b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=r_dargan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-06T07:26:50.522</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\bin\Debug\Store.exe">
+      <PackagePath>Store.exe</PackagePath>
+      <Modified>2013-10-06T07:26:50.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\bin\Debug\Store.pdb">
+      <PackagePath>Store.pdb</PackagePath>
+      <Modified>2013-10-06T07:26:50.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\bin\Debug\Store.Core.pdb">
+      <PackagePath>Store.Core.pdb</PackagePath>
+      <Modified>2013-10-06T07:26:48.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro.Core\bin\Debug\Store.Core.dll">
+      <PackagePath>Store.Core.dll</PackagePath>
+      <Modified>2013-10-06T07:26:48.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-06T06:53:22.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-10-06T07:02:13.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\DIDemo\NoDI.NotSureWhatToCallItButItsNotMetro\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-06T07:26:50.409</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

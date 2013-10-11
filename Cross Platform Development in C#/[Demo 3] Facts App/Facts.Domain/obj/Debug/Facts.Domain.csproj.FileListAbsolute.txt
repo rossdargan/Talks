@@ -1,0 +1,5 @@
+C:\Workspaces\Sandpit\Facts.Core\Facts.Domain\bin\Debug\Facts.Domain.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Domain\bin\Debug\Facts.Domain.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Domain\obj\Debug\Facts.Domain.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Domain\obj\Debug\Facts.Domain.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Domain\obj\Debug\Facts.Domain.csprojResolveAssemblyReference.cache

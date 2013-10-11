@@ -1,0 +1,5 @@
+C:\Workspaces\Sandpit\DIDemo\AC.PCL\bin\Debug\AC.Core.dll
+C:\Workspaces\Sandpit\DIDemo\AC.PCL\bin\Debug\AC.Core.pdb
+C:\Workspaces\Sandpit\DIDemo\AC.PCL\obj\Debug\AC.Core.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\DIDemo\AC.PCL\obj\Debug\AC.Core.dll
+C:\Workspaces\Sandpit\DIDemo\AC.PCL\obj\Debug\AC.Core.pdb

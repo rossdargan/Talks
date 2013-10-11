@@ -1,0 +1,5 @@
+C:\Workspaces\Sandpit\HelloWorld_App1\HelloWorld_App1\bin\iPhoneSimulator\Debug\HelloWorld_App1.exe
+C:\Workspaces\Sandpit\HelloWorld_App1\HelloWorld_App1\bin\iPhoneSimulator\Debug\HelloWorld_App1.pdb
+C:\Workspaces\Sandpit\HelloWorld_App1\HelloWorld_App1\obj\iPhoneSimulator\Debug\HelloWorld_App1.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\HelloWorld_App1\HelloWorld_App1\obj\iPhoneSimulator\Debug\HelloWorld_App1.exe
+C:\Workspaces\Sandpit\HelloWorld_App1\HelloWorld_App1\obj\iPhoneSimulator\Debug\HelloWorld_App1.pdb

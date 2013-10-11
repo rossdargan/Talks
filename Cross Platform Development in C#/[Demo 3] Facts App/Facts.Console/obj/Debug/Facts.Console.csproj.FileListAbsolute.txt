@@ -1,0 +1,10 @@
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\bin\Debug\Facts.Console.exe.config
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\obj\Debug\Facts.Console.csprojResolveAssemblyReference.cache
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\bin\Debug\Facts.Console.exe
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\bin\Debug\Facts.Console.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\bin\Debug\Facts.Domain.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\bin\Debug\Facts.Repository.dll
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\bin\Debug\Facts.Domain.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\bin\Debug\Facts.Repository.pdb
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\obj\Debug\Facts.Console.exe
+C:\Workspaces\Sandpit\Facts.Core\Facts.Console\obj\Debug\Facts.Console.pdb

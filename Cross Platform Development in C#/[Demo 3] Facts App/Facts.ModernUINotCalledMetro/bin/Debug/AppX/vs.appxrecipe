@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DUR-LP-090</Machine>
+    <WindowsUser>r_dargan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BC0854C1C61C21015DD9F606FEA3B6F3DAF97319A808ED1A3ECE03FD4CBF3AAA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>285f776b-6750-456e-b757-c003df499ea9_1.0.0.0_neutral__3pqgqcbk8sv8y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>285f776b-6750-456e-b757-c003df499ea9_3pqgqcbk8sv8y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>285f776b-6750-456e-b757-c003df499ea9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=r_dargan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T21:34:02.557</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\bin\Debug\Facts.ModernUINotCalledMetro.exe">
+      <PackagePath>Facts.ModernUINotCalledMetro.exe</PackagePath>
+      <Modified>2013-10-11T14:21:51.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\bin\Debug\Facts.ModernUINotCalledMetro.pdb">
+      <PackagePath>Facts.ModernUINotCalledMetro.pdb</PackagePath>
+      <Modified>2013-10-11T14:21:51.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\netcore45\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2013-09-29T10:20:45.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\netcore45\Cirrious.CrossCore.WindowsStore.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsStore.dll</PackagePath>
+      <Modified>2013-09-29T10:20:45.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.12\lib\netcore45\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2013-09-29T10:20:45.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\netcore45\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2013-09-29T10:20:45.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.12\lib\netcore45\Cirrious.MvvmCross.WindowsStore.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsStore.dll</PackagePath>
+      <Modified>2013-09-29T10:20:45.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Core.dll">
+      <PackagePath>Facts.Core.dll</PackagePath>
+      <Modified>2013-10-11T14:21:49.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2013-09-29T11:00:13.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\packages\Microsoft.Net.Http.2.2.15\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2013-09-29T11:00:13.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Domain.dll">
+      <PackagePath>Facts.Domain.dll</PackagePath>
+      <Modified>2013-10-11T14:21:13.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Repository.dll">
+      <PackagePath>Facts.Repository.dll</PackagePath>
+      <Modified>2013-10-11T14:21:13.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Core.pdb">
+      <PackagePath>Facts.Core.pdb</PackagePath>
+      <Modified>2013-10-11T14:21:49.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Domain.pdb">
+      <PackagePath>Facts.Domain.pdb</PackagePath>
+      <Modified>2013-10-11T14:21:12.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.Core\bin\Debug\Facts.Repository.pdb">
+      <PackagePath>Facts.Repository.pdb</PackagePath>
+      <Modified>2013-10-11T14:21:13.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\ToDo-MvvmCross\_ Windows Store UI.txt">
+      <PackagePath>ToDo-MvvmCross\_ Windows Store UI.txt</PackagePath>
+      <Modified>2013-09-29T12:00:54.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-09-29T12:00:30.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\bin\Debug\Views\FirstView.xaml">
+      <PackagePath>Views\FirstView.xaml</PackagePath>
+      <Modified>2013-10-10T20:20:22.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Workspaces\Sandpit\Facts.Core\Facts.ModernUINotCalledMetro\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-09-29T21:34:02.307</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
